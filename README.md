@@ -15,6 +15,7 @@ Digital music education is used as a representative multimedia application scena
 ---
 
 ## Repository Structure
+
 AI-DME1/
 ├── data/ # Synthetic multimedia image dataset
 ├── notebooks/ # Jupyter notebooks for experiments
