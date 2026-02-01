@@ -13,15 +13,3 @@ This project presents an artificial intelligence–based multimedia framework fo
 Digital music education is used as a representative multimedia application scenario to demonstrate the effectiveness of the proposed approach.
 
 ---
-
-## Repository Structure
-
-AI-DME1/
-├── data/ # Synthetic multimedia image dataset
-├── notebooks/ # Jupyter notebooks for experiments
-├── src/ # Python scripts (training, evaluation, models)
-│ └── models/ # Multiple CNN architectures
-├── results/ # Experimental results and metrics
-├── config.json # Configuration file
-├── requirements.txt # Python dependencies
-└── README.md
