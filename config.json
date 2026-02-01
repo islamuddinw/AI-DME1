@@ -1,0 +1,8 @@
+{
+  "image_size": [
+    224,
+    224
+  ],
+  "epochs": 10,
+  "batch_size": 16
+}
